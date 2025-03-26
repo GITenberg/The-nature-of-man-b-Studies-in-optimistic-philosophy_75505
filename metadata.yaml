@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '7034'
     url: http://www.gutenberg.org/2009/agents/7034
     wikipedia: https://en.wikipedia.org/wiki/Peter_Chalmers_Mitchell
+covers:
+- cover_type: archival
+  image_path: 75505-h/images/cover.jpg
 creator:
   author:
     agent_name: Metchnikoff, Élie
     gutenberg_agent_id: '58032'
     url: http://www.gutenberg.org/2009/agents/58032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75505#The-nature-of-man-b-Studies-in-optimistic-philosophy
 gutenberg_issued: '2025-03-03'
 gutenberg_type: Text
 identifiers:
